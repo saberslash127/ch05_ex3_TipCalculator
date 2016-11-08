@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\660252306\Downloads\and2_allfiles\android\ex_starts\ch05_ex3_TipCalculator3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="f473a00a187e85ba9bec8d1a6c74cb33f7f71c4e">
+        <dex dex="C:\Users\660252306\Downloads\and2_allfiles\android\ex_starts\ch05_ex3_TipCalculator3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e16e8e8da8b0b4aa3a767773a60289c2df612cd8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\660252306\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\660252306\Downloads\and2_allfiles\android\ex_starts\ch05_ex3_TipCalculator3\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_0a39d9b2885c711f76f812248658d7ed5da3217b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\660252306\Downloads\and2_allfiles\android\ex_starts\ch05_ex3_TipCalculator3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="251e64563b2831f47329eb66cc5b463e27a5aeb1">
+        <dex dex="C:\Users\660252306\Downloads\and2_allfiles\android\ex_starts\ch05_ex3_TipCalculator3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2c0f71aa9fe198c018412a1fa8123de0849ce128\classes.dex" />
+    </item>
+
+</items>
